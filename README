@@ -1,0 +1,14 @@
+Cluster Text
+============
+
+A Vim-plugin that allows you to write the most basic form of cluster texts based
+on the work of Andreas Pålsson.     The basic rules are as follows:
+
+- Following a full stop five (5) spaces are used instead of one (1)
+- Alone words at the end of a line are wrapped to the next line
+- Lines should be left aligned (not justified)
+- 80-90 characters per line
+
+The full rule set is complex and involves human judgement to place the indentations
+within sentences.     As such, there is no simple algorythm (yet) that can be used
+to place indentations while still maintaining a natural "feel" when reading the text.
