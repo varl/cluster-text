@@ -13,3 +13,8 @@ The full rule set is complex and involves human judgement to place the
 indentations within sentences.     As such, there is no simple algorythm (yet)
 that can be used to place indentations while still maintaining a natural "feel"
 when reading the text.
+
+The plugin works as such.     As you strike full-stop ('.') followed by a space
+in reasonably rapid succession (one second or so) 5 spaces are inserted instead
+of one.     There is some syntax highlighting as well.     Most prominently (and
+perhaps incorrectly so) on the '.' character.
