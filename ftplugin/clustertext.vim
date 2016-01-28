@@ -1,9 +1,6 @@
-set wrap
 set expandtab
 set backspace=indent,eol,start
-set columns=80
 
-imap .<space> . <space><space><space><space><space>
+" TODO Implement auto clustering text function to run on blocks
 
-nnoremap <buffer> <leader>c
-						\ :call clustertext#running#ClusterText()<cr>
+imap .<space> .<space><space><space><space><space>
