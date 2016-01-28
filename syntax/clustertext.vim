@@ -2,8 +2,8 @@ if exists("b:current_syntax")
   finish
 endif
 
-syntax keyword clustertextKeyword .
+syntax match clustertextOperator "\v\."
 
-highlight link clustertextKeyword Keyword
+highlight link clustertextOperator Operator
 
 let b:current_syntax = "clustertext"
