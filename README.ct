@@ -9,6 +9,7 @@ on the work of Andreas Pålsson.     The basic rules are as follows:
 - Lines should be left aligned (not justified)
 - 80-90 characters per line
 
-The full rule set is complex and involves human judgement to place the indentations
-within sentences.     As such, there is no simple algorythm (yet) that can be used
-to place indentations while still maintaining a natural "feel" when reading the text.
+The full rule set is complex and involves human judgement to place the
+indentations within sentences.     As such, there is no simple algorythm (yet)
+that can be used to place indentations while still maintaining a natural "feel"
+when reading the text.
