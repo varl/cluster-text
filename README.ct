@@ -18,3 +18,6 @@ The plugin works as such.     As you strike full-stop ('.') followed by a space
 in reasonably rapid succession (one second or so) 5 spaces are inserted instead
 of one.     There is some syntax highlighting as well.     Most prominently (and
 perhaps incorrectly so) on the '.' character.
+
+Other dividers, like comma, can be nice to cluster and has the same time-delay
+as full-stops or exclamation/question marks.
